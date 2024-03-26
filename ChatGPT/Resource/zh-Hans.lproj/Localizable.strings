@@ -1,0 +1,75 @@
+/* 
+  Localizable.strings
+  ChatGPT
+
+  Created by Quochn on 2023/4/3.
+  
+*/
+
+"Today" = "Hôm nay";
+"Yesterday" = "Hôm qua";
+"No Message" = "Không có tin nhắn";
+"Copy" = "Sao chép";
+"Delete" = "Xóa";
+"Regenerate" = "Tạo lại";
+
+"Ask anything, or type /" = "Hỏi bất cứ điều gì, hoặc nhập /";
+
+"Warning" = "Cảnh báo";
+"Remove all messages?" = "Xóa tất cả tin nhắn?";
+"Cancel" = "Hủy bỏ";
+"Confirm" = "Xác nhận";
+"Done" = "Hoàn thành";
+"Regenerate response" = "Tạo lại phản hồi";
+"Error: %@" = "Lỗi: %@";
+"Response Error: %@" = "Lỗi phản hồi: %@";
+"Response Error: %@, %@" = "Lỗi phản hồi: %@, %@";
+"Invalid Response" = "Phản hồi không hợp lệ";
+"Failed to generate image." = "Không thể tạo ảnh";
+"HuggingFace User Access Token is not set." = "Token truy cập người dùng HuggingFace chưa được thiết lập";
+
+"Settings" = "Cài đặt";
+
+"Model" = "Mô hình";
+"Prompt" = "Gợi ý";
+"Prompts" = "Gợi ý";
+"General" = "Chung";
+
+"Temperature" = "Nhiệt độ";
+"Sync Prompts" = "Đồng bộ hóa Gợi ý";
+"Source" = "Nguồn";
+"Sync" = "Đồng bộ hóa";
+"Never" = "Không bao giờ cập nhật";
+"Updating" = "Đang cập nhật";
+"Last updated on %@" = "Cập nhật lần cuối vào %@";
+
+"Custom Prompts" = "Gợi ý Tùy chỉnh";
+"Add Prompt" = "Thêm Gợi ý";
+"No Prompts" = "Không có Gợi ý";
+"Name" = "Tên";
+"Name:" = "Tên:";
+"Prompt:" = "Gợi ý:";
+"Type a shortcut name" = "Nhập tên rút gọn";
+"Type a prompt" = "Nhập nội dung Gợi ý";
+
+"Markdown Enabled" = "Bật Markdown";
+
+"OpenAI" = "OpenAI";
+"OpenAI API Key" = "OpenAI API Key";
+"OpenAI Documentation" = "Tài liệu OpenAI";
+"API Key" = "API Key";
+"ChatGPT" = "ChatGPT";
+"Language Model" = "Mô hình ngôn ngữ";
+"Image Size" = "Kích thước ảnh";
+"[Image]" = "[Hình ảnh]";
+"Smart Mode" = "Chế độ thông minh";
+"ChatGPT will classify your prompt and then select the most appropriate model to handle it." = "ChatGPT sẽ phân loại Gợi ý của bạn và sau đó chọn mô hình phù hợp nhất để xử lý nó.";
+"Reply Suggestions" = "Gợi ý phản hồi";
+"ChatGPT will generate reply suggestions based on past conversations." = "ChatGPT sẽ tạo ra gợi ý phản hồi dựa trên cuộc trò chuyện trước đó.";
+"Text2Image:" = "Tạo hình từ văn bản:";
+"Text2Image" = "Tạo hình từ văn bản";
+
+"Later" = "Sau";
+"Confirm" = "Xác nhận";
+"Enter OpenAI API Key" = "Nhập OpenAI API Key";
+"You need set OpenAI API Key before start a conversation." = "Bạn cần thiết lập OpenAI API Key trước khi bắt đầu cuộc trò chuyện.";
